@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/the-nazzmul/the-nazzmul/refs/heads/main/nazmul-hussain.png"  />
+  <img height="300" src="https://i.postimg.cc/3w9vs4PZ/DALL-E-2025-02-05-02-51-40-A-professional-Git-Hub-profile-banner-featuring-a-circular-profile-image.webp"  />
 </div>
 
 ###
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -86,6 +86,4 @@
 <img src="https://raw.githubusercontent.com/FarjanaEti/FarjanaEti/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
 
