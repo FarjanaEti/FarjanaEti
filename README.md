@@ -22,11 +22,17 @@
 
 <p align="left">
 🐞 Creating bugs (and solving them too!) since 2021  
+  
 📚 Currently diving deep into **Next.js** for full-stack development  
+
 💡 Also exploring the world of **Machine Learning**  
+
 🐍 Learning **Python** to support my ML journey  
+
 🛠️ Working on a personal project to put my skills into practice  
+
 🎯 Goals: Become confident in both **web development** and **machine learning**  
+
 🎲 Fun fact: I enjoy solving math problems just as much as I love building cool web apps!</p>
 
 ###
