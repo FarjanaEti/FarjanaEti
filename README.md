@@ -71,10 +71,12 @@
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 <img width="12" />
-    <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="Anaconda" width="50" height="50"/>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
 <img width="12" />
- <img src="https://cdn.worldvectorlogo.com/logos/jupyter-1.svg" alt="Jupyter" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+
 </div>
 
 ###
